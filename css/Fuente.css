@@ -11,11 +11,11 @@ body{
 	text-align: center;
 }
 h1{
-	font-size: 150px;
+	font-size: 60px;
 }
 h2{
 	text-align: left;
-	font-size: 50px;
+	font-size: 65px;
 }
 
 p{
@@ -36,12 +36,12 @@ img{
 
 
 .nombre{
-	font-size: 40px;
+	font-size: 80px;
 
 }
 .btnpregunta{
 	background: #6EF2F2;
-	font-size: 20px;
+	font-size: 60px;
 	border:solid cyan;
 	border-radius: 8px;
 	text-align: center;
@@ -55,7 +55,7 @@ border:solid pink;
 
 .reproductor2{
 	background: #fff;
-	font-size: 40px;
+	font-size: 60px;
 	color: red;
 
     font-family: "Times New Roman" , Verdana, Arial, Helvetica, sans-serif;

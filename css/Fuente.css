@@ -18,7 +18,7 @@ h2{
 	font-size: 65px;
 }
 h3{
-	font-size:35px;
+	font-size: 35px;
 }
 p{
 	text-align: left;
@@ -57,7 +57,7 @@ border:solid pink;
 
 .reproductor2{
 	background: #fff;
-	font-size: 60px;
+	font-size: 75px;
 	color: red;
 
     font-family: "Times New Roman" , Verdana, Arial, Helvetica, sans-serif;
@@ -80,13 +80,13 @@ border:solid pink;
 
 .reproductor1{
 	background: #fff;
-	font-size: 60px;
+	font-size: 75px;
 	color: #1AF817;
 
 	font-family: "Times New Roman" , Verdana, Arial, Helvetica, sans-serif;
 	border: solid #1AF817;
 	border-radius: 8px;
-	margin:25px;
+	margin: 25px;
 	line-height: 50px;
   text-align: center;
   width: 100px;

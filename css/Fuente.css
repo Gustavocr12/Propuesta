@@ -64,11 +64,11 @@ border:solid pink;
 	border: solid #F81E17;
 	border-radius: 8px;
 	margin: 25px;
-	line-height: 100px;
+	line-height: 50px;
   text-align: center;
- /* width: 150px;
+ width: 200px;
   height: 100px;
-  /*
+  
 -webkit-transition-duration: 0.2s; /* Safari */
    /* transition-duration: 0.2s;*/
 
@@ -87,10 +87,10 @@ border:solid pink;
 	border: solid #1AF817;
 	border-radius: 8px;
 	margin: 25px;
-	line-height: 100px;
+	line-height: 50px;
   text-align: center;
- /* width: 150px;
-  height: 100px;*/
+ width: 200px;
+  height: 100px;
 -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
 
